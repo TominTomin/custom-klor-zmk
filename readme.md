@@ -26,3 +26,5 @@ This Configuration support Wireless connection between two halves and communicat
 
 - The encoder on the secondary side doesn't work yet. This is a limitation of ZMK.
 - Display does not work on both side, working on this.
+
+- <!-- Build test -->
