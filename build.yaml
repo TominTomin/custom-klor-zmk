@@ -2,10 +2,10 @@ include:
   - board: nice_nano
     shield: settings_reset
     artifact-name: klor-reset
-  - board: nice_nano
-    shield: klor_dongle dongle_display
-    snippet: studio-rpc-usb-uart
-    artifact-name: klor-dongle
+#  - board: nice_nano
+    #shield: klor_dongle dongle_display
+    #snippet: studio-rpc-usb-uart
+    #artifact-name: klor-dongle
   - board: nice_nano
     shield: klor_left
     artifact-name: klor-left
